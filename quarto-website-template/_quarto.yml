@@ -42,6 +42,7 @@ website:
           - analysis/2-static-images.ipynb
           - analysis/3-altair-hvplot.ipynb
           - analysis/4-folium.ipynb
+          - analysis/lecture-5A.ipynb
 
 format:
   html:
