@@ -1,0 +1,68 @@
+Retrieving notices: ...working... done
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/oliveratwood/mambaforge/envs/musa-550-fall-2023
+
+  added / updated specs:
+    - vl-convert-python
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    openssl-3.1.3              |       h53f4e23_0         2.1 MB  conda-forge
+    vl-convert-python-0.13.1   |  py310h2aa6e3c_1        16.3 MB  conda-forge
+    ------------------------------------------------------------
+                                           Total:        18.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  vl-convert-python  conda-forge/osx-arm64::vl-convert-python-0.13.1-py310h2aa6e3c_1 
+
+The following packages will be UPDATED:
+
+  openssl                                  3.1.2-h53f4e23_0 --> 3.1.3-h53f4e23_0 
+
+
+
+Downloading and Extracting Packages
+openssl-3.1.3        | 2.1 MB    |            |   0% 
+vl-convert-python-0. | 16.3 MB   |            |   0% [Aopenssl-3.1.3        | 2.1 MB    |            |   1% openssl-3.1.3        | 2.1 MB    | ###4       |  35% openssl-3.1.3        | 2.1 MB    | ######7    |  68% openssl-3.1.3        | 2.1 MB    | #########6 |  96% 
+vl-convert-python-0. | 16.3 MB   |            |   0% [A
+vl-convert-python-0. | 16.3 MB   | 3          |   3% [Aopenssl-3.1.3        | 2.1 MB    | ########## | 100% 
+vl-convert-python-0. | 16.3 MB   | 6          |   6% [A
+vl-convert-python-0. | 16.3 MB   | #          |  11% [A
+vl-convert-python-0. | 16.3 MB   | #3         |  14% [A
+vl-convert-python-0. | 16.3 MB   | #7         |  17% [A
+vl-convert-python-0. | 16.3 MB   | ##         |  20% [A
+vl-convert-python-0. | 16.3 MB   | ##3        |  23% [A
+vl-convert-python-0. | 16.3 MB   | ##8        |  28% [A
+vl-convert-python-0. | 16.3 MB   | ###3       |  33% [A
+vl-convert-python-0. | 16.3 MB   | ###8       |  39% [A
+vl-convert-python-0. | 16.3 MB   | ####3      |  44% [A
+vl-convert-python-0. | 16.3 MB   | ####9      |  49% [A
+vl-convert-python-0. | 16.3 MB   | #####4     |  54% [A
+vl-convert-python-0. | 16.3 MB   | #####9     |  59% [A
+vl-convert-python-0. | 16.3 MB   | ######3    |  63% [A
+vl-convert-python-0. | 16.3 MB   | ######6    |  67% [A
+vl-convert-python-0. | 16.3 MB   | #######1   |  71% [A
+vl-convert-python-0. | 16.3 MB   | #######4   |  75% [A
+vl-convert-python-0. | 16.3 MB   | #######7   |  78% [A
+vl-convert-python-0. | 16.3 MB   | ########2  |  82% [A
+vl-convert-python-0. | 16.3 MB   | ########5  |  86% [A
+vl-convert-python-0. | 16.3 MB   | ########8  |  88% [A
+vl-convert-python-0. | 16.3 MB   | #########  |  90% [A
+vl-convert-python-0. | 16.3 MB   | #########2 |  92% [A
+vl-convert-python-0. | 16.3 MB   | #########4 |  94% [A
+vl-convert-python-0. | 16.3 MB   | #########6 |  96% [A
+vl-convert-python-0. | 16.3 MB   | #########8 |  98% [A
+vl-convert-python-0. | 16.3 MB   | #########9 | 100% [A
+vl-convert-python-0. | 16.3 MB   | ########## | 100% [A                                                     
+                                                     [A
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
